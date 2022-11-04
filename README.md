@@ -1,6 +1,6 @@
 # Flight Simulator 2020 Web Controller
 
-Using an webapp to control you Flight simulation
+Using a webapp to control your Flight simulation
 
 # How to run
 
